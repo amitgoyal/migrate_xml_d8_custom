@@ -4,15 +4,33 @@
         <id>1</id>
         <title>Home</title>
         <body>This is a Home Page.</body>
+        <city>City 1</city>
+        <state>State 1</state>
+        <site_url>http://www.example1.com</site_url>
+        <site_name>Example1.com</site_name>
+        <keywords>home,example1</keywords>
+        <date_created>2016-08-30T10:20:00Z</date_created>
     </page>
     <page>
         <id>2</id>
         <title>About us</title>
         <body>This is a About Page.</body>
+        <city>City 2</city>
+        <state>State 2</state>
+        <site_url>http://www.example2.com</site_url>
+        <site_name>Example2.com</site_name>
+        <keywords>about,example2</keywords>
+        <date_created>2016-09-10T11:15:00Z</date_created>
     </page>
     <page>
         <id>3</id>
         <title>Copyright</title>
         <body>This is a Copyright Page.</body>
+        <city>City 2</city>
+        <state>State 2</state>
+        <site_url>http://www.example3.com</site_url>
+        <site_name>Example3.com</site_name>
+        <keywords>copyright,example3</keywords>
+        <date_created>2016-09-15T10:00:00Z</date_created>
     </page>
 </pages>
