@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages>
+    <page>
+        <id>1</id>
+        <title>Home</title>
+        <body>This is a Home Page.</body>
+    </page>
+    <page>
+        <id>2</id>
+        <title>About us</title>
+        <body>This is a About Page.</body>
+    </page>
+    <page>
+        <id>3</id>
+        <title>Copyright</title>
+        <body>This is a Copyright Page.</body>
+    </page>
+</pages>
