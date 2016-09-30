@@ -86,8 +86,8 @@ process:
     callable: strtotime
     source: date_created
   type:
-    plugin: default_value
-    default_value: page
+    plugin: content_type_plugin
+    source: site_url
   uid:
     plugin: default_value
     default_value: 1
