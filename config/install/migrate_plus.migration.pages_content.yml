@@ -81,6 +81,11 @@ process:
       delimiter: ,
     -
       plugin: entity_generate
+      value_key: name
+      bundle_key: vid
+      bundle: tags
+      entity_type: taxonomy_term
+      ignore_case: true
   created:
     plugin: callback
     callable: strtotime
