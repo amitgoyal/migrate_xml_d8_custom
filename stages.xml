@@ -2,28 +2,24 @@
 <flux-stage>
   <stage>
     <id_stage>1</id_stage>
-    <Titre></Titre>
-  	#<DateDebut></DateDebut>
-	  #<DateFin></DateFin>
-  <Thematique></Thematique>
-  <Objectifs>Texte</Objectifs>
-  <Pre_Requis>Texte</Pre_Requis>
-  <Public_Cible>texte</Public_Cible>
-  <Programme>Texte</Programme>
-  <Methode>Texte</Methode>
-  #<Tarifs>Texte</Tarifs> //dans stage ou session?
+    <Titre>Titre stage 1</Titre>
+  <Thematique>Theatique stage 1</Thematique>
+  <Objectifs>Objectifs stage 1</Objectifs>
+  <Pre_Requis>Pre requis stage 1</Pre_Requis>
+  <Public_Cible>Public cible stage 1</Public_Cible>
+  <Programme>Programme stage 1</Programme>
+  <Methode>Methode stage 1</Methode>
+ <Tarifs>tarifs stage 1</Tarifs>
   </stage>
   <stage>
-    <id_stage>1</id_stage>
-    <Titre></Titre>
-  	#<DateDebut></DateDebut>
-	  #<DateFin></DateFin>
-  <Thematique></Thematique>
-  <Objectifs>Texte</Objectifs>
-  <Pre_Requis>Texte</Pre_Requis>
-  <Public_Cible>texte</Public_Cible>
-  <Programme>Texte</Programme>
-  <Methode>Texte</Methode>
-  #<Tarifs>Texte</Tarifs> //dans stage ou session?
+    <id_stage>2</id_stage>
+    <Titre>Titre stage 2</Titre>
+  <Thematique>Theatique stage 2</Thematique>
+  <Objectifs>Objectifs stage 2</Objectifs>
+  <Pre_Requis>Pre requis stage 2</Pre_Requis>
+  <Public_Cible>Public cible stage 2</Public_Cible>
+  <Programme>Programme stage 2</Programme>
+  <Methode>Methode stage 2</Methode>
+ <Tarifs>tarifs stage 2</Tarifs>
   </stage>
 </flux-stage>
