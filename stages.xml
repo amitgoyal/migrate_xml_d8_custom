@@ -1,0 +1,28 @@
+<flux-stage>
+  <stage>
+    <id_stage>1</id_stage>
+    <Titre></Titre>
+  	#<DateDebut></DateDebut>
+	  #<DateFin></DateFin>
+  <Thematique></Thematique>
+  <Objectifs>Texte</Objectifs>
+  <Pre_Requis>Texte</Pre_Requis>
+  <Public_Cible>texte</Public_Cible>
+  <Programme>Texte</Programme>
+  <Methode>Texte</Methode>
+  #<Tarifs>Texte</Tarifs> //dans stage ou session?
+  </stage>
+  <stage>
+    <id_stage>1</id_stage>
+    <Titre></Titre>
+  	#<DateDebut></DateDebut>
+	  #<DateFin></DateFin>
+  <Thematique></Thematique>
+  <Objectifs>Texte</Objectifs>
+  <Pre_Requis>Texte</Pre_Requis>
+  <Public_Cible>texte</Public_Cible>
+  <Programme>Texte</Programme>
+  <Methode>Texte</Methode>
+  #<Tarifs>Texte</Tarifs> //dans stage ou session?
+  </stage>
+</flux-stage>
